@@ -1,4 +1,6 @@
-<img src="src/assets/img/icon-128.png" width="64"/>
+# pichibichi-react
+
+Pitch shifting on HTML5 media elements so you can sing along.
 
 # Chrome Extension Boilerplate with React 17 and Webpack 5
 
